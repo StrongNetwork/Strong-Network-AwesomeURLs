@@ -9,8 +9,6 @@ https://strong.network/
 
 LinkedIn: https://www.linkedin.com/company/strongnetworkinc/
 
-Twitter: GoStrongNetwork - https://twitter.com/GoStrongNetwork
+Twitter: https://twitter.com/GoStrongNetwork
 
-YouTube: Strong Network - https://www.youtube.com/@strongnetwork332
-
-Laurent’s Medium: https://readings.strong-network.com/ 
+YouTube: https://www.youtube.com/@strongnetwork332
