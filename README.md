@@ -2,9 +2,11 @@
 Public URL Links about Strong Network
 
 **Website**
+
 https://strong.network/
 
 **Social Media**
+
 LinkedIn: https://www.linkedin.com/company/strongnetworkinc/
 
 Twitter: GoStrongNetwork - https://twitter.com/GoStrongNetwork
