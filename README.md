@@ -5,13 +5,20 @@ Public URL Links about Strong Network
 
 https://strong.network/
 
+
 **Social Media**
 
-LinkedIn: https://www.linkedin.com/company/strongnetworkinc/
+LinkedIn 
+https://www.linkedin.com/company/strongnetworkinc/
 
-Twitter: https://twitter.com/GoStrongNetwork
+Twitter 
+https://twitter.com/GoStrongNetwork
 
-YouTube: https://www.youtube.com/@strongnetwork332
+YouTube
+https://www.youtube.com/@strongnetwork332
+
+Crunchbase
+https://www.crunchbase.com/organization/strong-network
 
 
 **Blog**
@@ -30,3 +37,16 @@ https://strong.network/blog/the-trusted-liquid-workforce
 
 How Zero-Trust Architecture Design Enables Global Business Processes
 https://strong.network/blog/how-zero-trust-architecture-design-enables-global-business-processes
+
+
+**Technology review**
+
+The Virtual Workspace Infrastructure (VWI) Platform
+https://strong.network/resources/vwi/
+
+Zero-Trust Architecture For Coding And Data Science Processes
+https://strong.network/resources/zta/
+
+Data Loss Prevention For Development Workspaces
+https://strong.network/resources/dlp/
+
