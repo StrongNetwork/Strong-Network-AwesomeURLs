@@ -1,12 +1,12 @@
 # Strong-Network-AwesomeURLs
 Public URL Links about Strong Network
 
-**Website**
+**Strong Network Website**
 
 https://strong.network/
 
 
-**Social Media**
+**Strong Network Social Media**
 
 LinkedIn 
 https://www.linkedin.com/company/strongnetworkinc/
@@ -21,7 +21,7 @@ Crunchbase
 https://www.crunchbase.com/organization/strong-network
 
 
-**Blog**
+**Strong Network Blog**
 
 Thwarting the Theft of OAuth Session Tokens Using Secured CDEs
 https://strong.network/blog/thwarting-the-theft-of-oauth-session-tokens
@@ -39,7 +39,7 @@ How Zero-Trust Architecture Design Enables Global Business Processes
 https://strong.network/blog/how-zero-trust-architecture-design-enables-global-business-processes
 
 
-**Technology review**
+**Strong Network Technology review**
 
 The Virtual Workspace Infrastructure (VWI) Platform
 https://strong.network/resources/vwi/
